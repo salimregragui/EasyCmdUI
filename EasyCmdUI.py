@@ -1,8 +1,6 @@
 import os
 import time
 import keyboard
-import tabulate
-
 
 class EasyCmdUi:
     '''Class that makes creating cmd ui's easier'''
