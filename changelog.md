@@ -38,7 +38,7 @@ All notable changes to this package will be documented in this file.
 - Added styling possibilities to the sentences in the UI (newline, upper, lower, centered)
 - Added possibility to display content in the UI character by character
 
-## [0.1.0] - 2019-02-14
+## 0.1.0 - 2019-02-14
 
 ### Added
 - Possibility to choose type of display of the UI (centered, bordered, fixed)
